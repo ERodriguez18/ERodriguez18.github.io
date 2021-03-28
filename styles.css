@@ -65,3 +65,19 @@ a {
     top: 80px;
 
 }
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+  
+  }
+  
+  .footer-link {
+      color: #11999E;
+  }
+  
+  .pro {
+      font-weight: normal;
+      color: #9ba4b4;
+  
+  }
