@@ -103,3 +103,21 @@ a {
     float: right;
     margin-left: 30px;
 }
+.erick-pic {
+    width: 20%;
+    margin: 15px auto;
+    border-radius: 20%;
+}
+
+.middle-container {
+    
+    background-color: #30475e;
+
+}
+
+.bottom-container {
+    background-color: #9ba4b4;
+    padding: 50px 0 20px;
+    
+
+}
