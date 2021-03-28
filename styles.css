@@ -29,3 +29,18 @@ h3 {
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
 }
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+   margin: 75px auto 75px auto;
+
+}
+
+a {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    
+}
